@@ -148,56 +148,56 @@ document.addEventListener('DOMContentLoaded', function () {
             description: "A modern responsive developer portfolio built with HTML, CSS, and JavaScript. The website presents my projects, technical stack, and professional experience with optimized performance and clean UI design.",
             image: "./assets/img/site1.png",
             technologies: ["JavaScript", "HTML5", "CSS3"],
-            liveLink: "https://aleksandrteslenko.github.io/resume/",
-            repoLink: "https://github.com/AleksandrTeslenko/resume"
+            liveLink: "https://oleksandrteslenko.github.io/resume/",
+            repoLink: "https://github.com/oleksandrteslenko/resume"
         },
         {
             title: "Valentine's Day Interactive Love Page",
             description: "A creative single-page website built as a digital Valentine’s card. The project includes animated UI effects, smooth transitions, and interactive elements implemented with vanilla JavaScript, showcasing front-end creativity and clean responsive layout.",
             image: "./assets/img/site2.png",
             technologies: ["JavaScript", "HTML5", "CSS3"],
-            liveLink: "https://aleksandrteslenko.github.io/my-valentine/",
-            repoLink: "https://github.com/AleksandrTeslenko/my-valentine"
+            liveLink: "https://oleksandrteslenko.github.io/my-valentine/",
+            repoLink: "https://github.com/oleksandrteslenko/my-valentine"
         },
         {
             title: "One-page platform designed",
             description: "FirstJobStep is a modern one-page platform designed to help students and young professionals find their first job, internship, or part-time opportunity. The platform aggregates job listings and useful resources from trusted employers and popular platforms, making it easier to start a career without prior experience.",
             image: "./assets/img/site7.png",
             technologies: ["JavaScript", "HTML5", "CSS3"],
-            liveLink: "https://aleksandrteslenko.github.io/lending/",
-            repoLink: "https://github.com/AleksandrTeslenko/lending"
+            liveLink: "https://oleksandrteslenko.github.io/lending/",
+            repoLink: "https://github.com/oleksandrteslenko/lending"
         },
         {
             title: "Active Directory Password Reset Web Interface",
             description: "A web-based interface that allows users to securely reset or change their Active Directory passwords. The application provides a simple authentication form for entering user credentials and updating passwords through integration with Active Directory services. The project demonstrates implementation of secure authentication workflows and enterprise directory integration.",
             image: "./assets/img/site6.png",
             technologies: ["PHP", "JavaScript", "HTML5", "CSS3"],
-            liveLink: "https://aleksandrteslenko.github.io/AD_change_pswrd/",
-            repoLink: "https://github.com/AleksandrTeslenko/AD_change_pswrd"
+            liveLink: "https://oleksandrteslenko.github.io/AD_change_pswrd/",
+            repoLink: "https://github.com/oleksandrteslenko/AD_change_pswrd"
         },
         {
             title: "Genius Fullstack Course Projects",
             description: "A set of practice projects developed during a full-stack web development course. The project focuses on building responsive web interfaces using HTML, CSS, and JavaScript, implementing interactive UI components, and applying modern web development practices. The work is still in progress as part of the ongoing learning program.",
             image: "./assets/img/site4.png",
             technologies: ["JavaScript", "HTML5", "CSS3", "SCSS3"],
-            liveLink: "https://aleksandrteslenko.github.io/genius-fullstack-course/",
-            repoLink: "https://github.com/AleksandrTeslenko/genius-fullstack-course"
+            liveLink: "https://oleksandrteslenko.github.io/genius-fullstack-course/",
+            repoLink: "https://github.com/oleksandrteslenko/genius-fullstack-course"
         },
         {
             title: "Employee Task & Workflow Management Internal System",
             description: "The project is based on everyday work processes. Namely, it displays a list of company employees, their data, a list of current tasks assigned to each of them. Each task has its own name, description, link to the resources page, priority, status, change history, responsible for execution and verification.",
             image: "./assets/img/site5.png",
             technologies: ["PHP", "MySQL", "JavaScript", "HTML5", "CSS3"],
-            liveLink: "https://aleksandrteslenko.github.io/meeting-tasks/",
-            repoLink: "https://github.com/AleksandrTeslenko/meeting-tasks"
+            liveLink: "https://oleksandrteslenko.github.io/meeting-tasks/",
+            repoLink: "https://github.com/oleksandrteslenko/meeting-tasks"
         },
         {
             title: "Two-Factor Authentication (2FA) demo with Microsoft Authenticator",
             description: "A demonstration project implementing secure Two-Factor Authentication (2FA) using Microsoft Authenticator and the TOTP standard. The application includes QR code generation, secret key provisioning, and one-time password verification. This project showcases integration of modern authentication mechanisms to enhance security in web applications.",
             image: "./assets/img/site3.png",
             technologies: ["PHP", "JavaScript", "HTML5", "CSS3", "GuzzleHttp"],
-            liveLink: "https://aleksandrteslenko.github.io/2fa/",
-            repoLink: "https://github.com/AleksandrTeslenko/2fa"
+            liveLink: "https://oleksandrteslenko.github.io/2fa/",
+            repoLink: "https://github.com/oleksandrteslenko/2fa"
         }
     ];
 

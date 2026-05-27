@@ -6,11 +6,11 @@ The website is designed as a lightweight static site focused on performance, cle
 
 ## Live Demo
 
-https://aleksandrteslenko.github.io/resume
+https://oleksandrteslenko.github.io/resume
 
 ## Repository
 
-https://github.com/AleksandrTeslenko/resume
+https://github.com/oleksandrteslenko/resume
 
 ## Features
 
@@ -49,7 +49,7 @@ resume/
 Clone the repository:
 
 ```bash
-git clone https://github.com/AleksandrTeslenko/resume.git
+git clone https://github.com/oleksandrteslenko/resume.git
 ```
 
 Open the project folder and launch `index.html` in your browser.
@@ -63,7 +63,7 @@ The website is deployed using GitHub Pages.
 Oleksandr Teslenko
 Full Stack Web Developer
 
-GitHub: https://github.com/AleksandrTeslenko
+GitHub: https://github.com/oleksandrteslenko
 
 ## License
 
